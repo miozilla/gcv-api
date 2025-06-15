@@ -1,4 +1,4 @@
-# gcv-api
+# gcv-api 👓
 gcv-api : Cloud Vision API # gcp
 
 ## Objective
